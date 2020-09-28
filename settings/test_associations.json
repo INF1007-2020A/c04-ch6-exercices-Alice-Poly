@@ -15,8 +15,8 @@
     "name": "Notes",
     "points": 1
   },
-  "test_histogram": {
-    "name": "Histogrammes",
+  "test_Frequence": {
+    "name": "Frequence",
     "points": 1
   }
 }
